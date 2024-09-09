@@ -1,0 +1,7 @@
+F:\Project\learnC#\MyLearnProject\MyLearnProject\bin\Debug\MyLearnProject.exe.config
+F:\Project\learnC#\MyLearnProject\MyLearnProject\bin\Debug\MyLearnProject.exe
+F:\Project\learnC#\MyLearnProject\MyLearnProject\bin\Debug\MyLearnProject.pdb
+F:\Project\learnC#\MyLearnProject\MyLearnProject\obj\Debug\MyLearnProject.csprojAssemblyReference.cache
+F:\Project\learnC#\MyLearnProject\MyLearnProject\obj\Debug\MyLearnProject.csproj.CoreCompileInputs.cache
+F:\Project\learnC#\MyLearnProject\MyLearnProject\obj\Debug\MyLearnProject.exe
+F:\Project\learnC#\MyLearnProject\MyLearnProject\obj\Debug\MyLearnProject.pdb
